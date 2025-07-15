@@ -1,3 +1,5 @@
+package vehicles;
+
 import java.time.LocalDate;
 
 public class Main{
